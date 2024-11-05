@@ -1,5 +1,5 @@
 # Solanium
-### MySQL, ReactJS, Laravel, Bootsrap, HTML, CSS.
+### MySQL, ReactJS, Laravel, Bootstrap, HTML, CSS.
  Commerce Web Application that enables users to connect with farmers for fresh produce.
 
 - A CRUD application that enables its users to connect with local farmers to buy fresh and organic food.
